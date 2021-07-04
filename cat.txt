@@ -1,3 +1,9 @@
 1
 README.md
 cat.txt
+total 3
+-rw-r--r-- 1 EAD+bvanaganapal 4096 19 Jul  4 19:54 conflictfile.txt
+-rw-r--r-- 1 EAD+bvanaganapal 4096 15 Jul  4 20:02 README.md
+-rw-r--r-- 1 EAD+bvanaganapal 4096 23 Jul  4 20:04 cat.txt
+-rw-r--r-- 1 EAD+bvanaganapal 4096  0 Jul  4 20:04 1.java
+Sun Jul  4 20:06:20 IST 2021
